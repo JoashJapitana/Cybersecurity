@@ -1,0 +1,50 @@
+body	{
+	background-color:#6495ED;
+}
+
+h1	{
+	text-align:center;
+	font-size:40px;
+	color:black;
+}
+
+.center{
+	text-align:justify;
+	font-size:30px;
+	border-style:solid;
+	color:black;
+	border-color:black;
+	border-width:6px;
+	background-color:#4682B4;
+}
+
+.Second	{
+	text-align:justify;
+	font-size:30px;
+	border-style:solid;
+	color:black;
+	border-color:black;
+	border-width:6px;
+	background-color:#4682B4;
+}
+h2{
+	text-align:center;
+	font-size:40px;
+	color:black;
+}
+
+.Howdy{
+	text-align:justify;
+	font-size:30px;
+	border-style:solid;
+	color:black;
+	border-color:black;
+	border-width:6px;
+	background-color:#4682B4;
+}
+
+h3{
+	text-align:center;
+	font-size:40px;
+	color:black;
+}
